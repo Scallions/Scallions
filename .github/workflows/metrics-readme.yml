@@ -14,6 +14,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # ... other options
+#           isocalendar: yes
+#           languages: yes
           template: markdown
           filename: README.md         # Output file
           markdown: TEMPLATE.md       # Template file
