@@ -16,6 +16,9 @@ jobs:
           # ... other options
 #           isocalendar: yes
 #           languages: yes
+          config_output: markdown
+          plugin_topics: yes
+          plugin_topics_limit: 24
           template: markdown
           filename: README.md         # Output file
           markdown: TEMPLATE.md       # Template file
