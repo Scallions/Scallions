@@ -11,10 +11,21 @@ I joined GitHub on `{{ f.date(REGISTRATION_DATE, {dateStyle:"short"}) }}`.
 <%- await embed(achievements, {achievements:true}) %>
 
 
-<p>&nbsp;<img align="left" height=110 src="https://github-readme-stats.vercel.app/api?username=scallions&show_icons=true&locale=en" alt="scallions" /></p>
-
-<p><img align="right" height=110 src="https://github-readme-stats.vercel.app/api/top-langs?username=scallions&show_icons=true&locale=en&layout=compact" alt="scallions" /></p>
-
-<p><img align="left" height=110 src="https://github-readme-streak-stats.herokuapp.com/?user=scallions&" alt="scallions" /></p>
-
-<p><img align="right" height=110 src="https://stats.justsong.cn/api/leetcode?username=scallions&cn=true" /></p>
+<table style="margin:0 0;">
+<tr>
+	<td>
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=scallions&show_icons=true&locale=en" alt="scallions" /></p>
+	</td>
+	<td>
+<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=scallions&show_icons=true&locale=en&layout=compact" alt="scallions" /></p>
+	</td>
+</tr>
+<tr>
+	<td>
+<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=scallions&" alt="scallions" /></p>
+	</td>
+	<td>
+<p><img align="right"  src="https://stats.justsong.cn/api/leetcode?username=scallions&cn=true" /></p>
+	</td>
+</tr>
+</table>
