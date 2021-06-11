@@ -10,10 +10,11 @@ I joined GitHub on `{{ f.date(REGISTRATION_DATE, {dateStyle:"short"}) }}`.
 
 <%- await embed(achievements, {achievements:true}) %>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scallions&show_icons=true&locale=en&layout=compact" alt="scallions" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scallions&show_icons=true&locale=en" alt="scallions" /></p>
+<p>&nbsp;<img align="left" height=110 src="https://github-readme-stats.vercel.app/api?username=scallions&show_icons=true&locale=en" alt="scallions" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scallions&" alt="scallions" /></p>
+<p><img align="right" height=110 src="https://github-readme-stats.vercel.app/api/top-langs?username=scallions&show_icons=true&locale=en&layout=compact" alt="scallions" /></p>
 
-![leet-code](https://stats.justsong.cn/api/leetcode?username=scallions&cn=true)
+<p><img align="left" height=110 src="https://github-readme-streak-stats.herokuapp.com/?user=scallions&" alt="scallions" /></p>
+
+<p><img align="right" height=110 src="https://stats.justsong.cn/api/leetcode?username=scallions&cn=true" /></p>
