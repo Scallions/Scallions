@@ -18,6 +18,8 @@ jobs:
           markdown: TEMPLATE.md       # Template file
           config_output: markdown
           config_timezone: Asia/Shanghai
+          topics: yes
+          achievements: yes
           plugin_topics: yes
           plugin_topics_limit: 24
           plugin_achievements: yes
