@@ -15,7 +15,7 @@
 <p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=scallions&show_icons=true&locale=en" alt="scallions" /></p>
 	</td>
 	<td>
-<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=scallions&show_icons=true&locale=en&layout=compact" alt="scallions" /></p>
+<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=scallions&show_icons=true&locale=en&layout=compact&hide=html" alt="scallions" /></p>
 	</td>
 </tr>
 <tr>
